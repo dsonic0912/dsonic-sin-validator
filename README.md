@@ -1,8 +1,18 @@
 # dSonic SIN Card Validator
 
-This application is capable of validating a SIN card by entering the SIN into an input box.
+The SIN Card validator for human!
 
-## Usage
+## Demo Site
+http://dsonic-sin-validator.davidtung.ca/
+
+![alt text](http://dsonic-sin-validator.davidtung.ca/sin-validator-home.png)
+
+
+![alt text](http://dsonic-sin-validator.davidtung.ca/sin-validator-valid.png)
+
+
+![alt text](http://dsonic-sin-validator.davidtung.ca/sin-validator-invalid.png)
+
 
 ## Project Setup
 
